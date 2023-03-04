@@ -59,3 +59,11 @@ By participating in GSoC, you'll have the chance to **work on real-world project
     
 
 So if you're a student 👨‍🎓 who is interested in technology, and coding, or just want to learn some new skills this summer, GSoC might be right for you. Whether you're a seasoned coder or just starting out, 🌞 GSoC is a great way to get involved and make a difference ✨ in the world of open-source software.
+
+### Resources:
+
+* All about GSoC YouTube video (thanks to Shivam): [https://youtu.be/qudrqu7GFmY](https://youtu.be/qudrqu7GFmY)
+    
+* GSoC official site: [https://summerofcode.withgoogle.com/](https://summerofcode.withgoogle.com/)
+    
+* Long-form video (Rahul shares his experience as a past GSoC'er and gives tips): [https://www.youtube.com/live/uYVock-iWro?feature=share](https://www.youtube.com/live/uYVock-iWro?feature=share)
